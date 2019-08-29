@@ -1,0 +1,3 @@
+{:port 58080
+ :max-http-connections 10
+ :domain-level 2}
